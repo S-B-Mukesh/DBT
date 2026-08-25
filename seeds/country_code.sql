@@ -1,0 +1,11 @@
+country_code,country_name,continent
+US,United States,North America
+CA,Canada,North America
+BR,Brazil,South America
+FR,France,Europe
+CN,China,Asia
+IND,India,Asia
+NG,Nigeria,Africa
+AU,Australia,Oceania
+RU,Russia,Europe/Asia
+JP,Japan,Asia
